@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869629193865",
+    "project_id": "jani-pastol",
+    "storage_bucket": "jani-pastol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869629193865:android:bd100953cdac83a1d66058",
+        "android_client_info": {
+          "package_name": "com.example.jani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4vpy1eRpdDTAEqgd3Lg3TPz6mpKBroMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
